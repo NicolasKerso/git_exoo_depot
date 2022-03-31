@@ -1,5 +1,6 @@
-#le premier programme pas ouf
+#élever à la puissance n
 
+n=int(input("Quelle puissance?")
 x = 3
-carre = x*x
-print(carre)
+puissance = x**n
+print(puissance)
